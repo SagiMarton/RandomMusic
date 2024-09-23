@@ -8,7 +8,7 @@ Hogyan adj hozzá zenét
 
 1. Forkold a repot.
 
-2. Töltsd le a zenét és konvertáld .ogg formátumba. A konvertálás **44100Hz**(44.1kHz) és **192 kbps** (Audacityben kb. 6-os qualitz) kell legyen. Csak olyan zenét válaszz, ami se a Code Geass, se a másik Anime Music modba nincs benne. https://sites.google.com/view/euiv-anime-music-re/strona-g%C5%82%C3%B3wna
+2. Töltsd le a zenét és konvertáld .ogg formátumba. A konvertálás **44100Hz**(44.1kHz) és **192 kbps** (Audacityben kb. 6-os qualitz) kell legyen. Csak olyan zenét válassz, ami se a Code Geass, se a másik Anime Music modba nincs benne. https://sites.google.com/view/euiv-anime-music-re/strona-g%C5%82%C3%B3wna
 
 3. Másold a .ogg filet a RandomMusic/music mappába. A filet értelmesen nevezd el, lehetőleg a szám címe csupa kis betűvel, egybe írva. Ez minimalizálja az esélyét annak, hogy későbbi lépésekben elírd a nevét és könnyű eldönteni, hogy az a szám szerepel-e már a modban.
 
