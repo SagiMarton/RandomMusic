@@ -124,3 +124,9 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Bauklotze"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}

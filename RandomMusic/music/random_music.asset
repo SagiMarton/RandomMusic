@@ -82,3 +82,7 @@ music = {
     name = "Hoshi no Arika"
     file = "hoshinoarika.ogg"
 }
+music = {
+    name = "Bauklotze"
+    file = "Bauklotze.ogg"
+}
