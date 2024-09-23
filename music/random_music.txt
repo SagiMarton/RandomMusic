@@ -130,3 +130,21 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Necromantic"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Mourning Refrain"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "I Am Just Feeling Alive"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}

@@ -86,3 +86,15 @@ music = {
     name = "Bauklotze"
     file = "Bauklotze.ogg"
 }
+music = {
+    name = "Necromantic"
+    file = "necromantic.ogg"
+}
+music = {
+    name = "Mourning Refrain"
+    file = "mourningrefrain.ogg"
+}
+music = {
+    name = "I Am Just Feeling Alive"
+    file = "feelingalive.ogg"
+}
