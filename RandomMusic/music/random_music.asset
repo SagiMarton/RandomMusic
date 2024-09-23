@@ -1,0 +1,84 @@
+music = {
+    name = "Shikairo Days"
+    file = "shikairodays.ogg"
+}
+music = {
+    name = "Shunkan Sentimental"
+    file = "shunkansentimental.ogg"
+}
+music = {
+    name = "Hologram"
+    file = "hologram.ogg"
+}
+music = {
+    name = "Sorairo Days"
+    file = "sorairodays.ogg"
+}
+music = {
+    name = "You Say Run"
+    file = "yousayrun.ogg"
+}
+music = {
+    name = "Oath Of Enma"
+    file = "oathofenma.ogg"
+}
+music = {
+    name = "Apple Seed"
+    file = "appleseed.ogg"
+}
+music = {
+    name = "Komm Susser Todd (Synthweave)"
+    file = "KommSüsserTodd(Synthwawe).ogg"
+}
+music = {
+    name = "SpecialZ"
+    file = "specialz.ogg"
+}
+music = {
+    name = "Lost In Paradise"
+    file = "lostinparadise.ogg"
+}
+music = {
+    name = "Pacific Rim"
+    file = "pacificrim.ogg"
+}
+music = {
+    name = "Overtaken"
+    file = "Overtaken.ogg"
+}
+music = {
+    name = "Dreamer"
+    file = "dreamer.ogg"
+}
+music = {
+    name = "UNDEAD"
+    file = "undead.ogg"
+}
+music = {
+    name = "Unwelcome School"
+    file = "unwelcomeschool.ogg"
+}
+music = {
+    name = "Underworld"
+    file = "underworld.ogg"
+}
+music = {
+    name = "Ao no Kanata he"
+    file = "aonokanatahe.ogg"
+}
+music = {
+    name = "Kuuiki no Shihaisha"
+    file = "kuuikinoshihaisha.ogg"
+}
+music = {
+    name = "Dies Irae"
+    file = "diesirae.ogg"
+}
+music = {
+    name = "Einsatz"
+    file = "einsatz.ogg"
+}
+music = {
+    name = "Hoshi no Arika"
+    file = "hoshinoarika.ogg"
+}

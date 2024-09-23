@@ -1,0 +1,126 @@
+song = {
+    name = "Shikairo Days"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Shunkan Sentimental"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Hologram"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Sorairo Days"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "You Say Run"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Oath Of Enma"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Apple Seed"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Komm Susser Todd (Synthweave)"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "SpecialZ"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Lost In Paradise"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Pacific Rim"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Overtaken"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Dreamer"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "UNDEAD"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Unwelcome School"
+    chance = {
+        modifier = { factor = 0.1 }
+    }
+}
+song = {
+    name = "Underworld"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Ao no Kanata he"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Kuuiki no Shihaisha"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Dies Irae"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Einsatz"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Hoshi no Arika"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
