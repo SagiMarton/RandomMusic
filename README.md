@@ -1,3 +1,8 @@
+Hogyan használd a modot
+1. Klónozd le a repot.
+2. Másold be a RandomMusic mappát és a RandomMusic.mod filet a documents/Paradox Interactive/Europa Universalis IV/mod mappába
+3. Add hozzá a paradox launcherben egy playsethez.
+
 Hogyan adj hozzá zenét
 
 1. Töltsd le a zenét és konvertáld .ogg formátumba. A konvertálás **44100Hz**(44.1kHz) és **192 kbps** (Audacityben kb. 6-os qualitz) kell legyen. Csak olyan zenét válaszz, ami se a Code Geass, se a másik Anime Music modba nincs benne. https://sites.google.com/view/euiv-anime-music-re/strona-g%C5%82%C3%B3wna
