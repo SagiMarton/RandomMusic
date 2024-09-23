@@ -31,4 +31,4 @@ A name mező egyezzen meg a 3. pontban a name mezővel. A chance konfigurációj
 
 5. Teszteld le a zenéid. In-game a music playerben a Random Music alatt találod meg a zenéket. A zenére rákattintva el kell hogy induljon. Ha a zene hiányzik onnan, vagy 0:00 a hossza, akkor elírtad a file nevet, vagy nem egyezik a 2 fileban a name mező, vagy valamelyik filet nem egészítetted ki. Ha valami extrább a chance blokkot tettél bele, azt is teszteld le.
 
-6. Csinálj pull requestet és szólj róla, majd megnézem és approveolom. A commit message tartalmazzon linket minden hozzáadott zenéhez.
+6. Csinálj branchet a változtadásodnak, küldj pull requestet és szólj róla, majd megnézem és approveolom. A commit message tartalmazzon linket minden hozzáadott zenéhez.
