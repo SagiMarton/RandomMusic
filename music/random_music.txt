@@ -85,7 +85,7 @@ song = {
 song = {
     name = "Unwelcome School"
     chance = {
-        modifier = { factor = 0.1 }
+        modifier = { factor = 1 }
     }
 }
 song = {
