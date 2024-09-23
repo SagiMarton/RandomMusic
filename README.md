@@ -1,6 +1,6 @@
 Hogyan használd a modot
-1. Klónozd le a repot.
-2. Másold be a RandomMusic mappát és a RandomMusic.mod filet a documents/Paradox Interactive/Europa Universalis IV/mod mappába.
+1. Klónozd le a repot a documents/Europa Universalis IV/mod mappába.
+2. Másold be a RandomMusic mappából a RandomMusic.mod filet a documents/Paradox Interactive/Europa Universalis IV/mod mappába.
 3. Módosítsd a path-et a .mod fileban. A USERNAME részt cseréld ki a sajátodra. Ha kell módosítsd az elérési út többi részét, a lényeg hogy a RandomMusic mappára mutasson. **NE** a Windows Explorerből másold ki az utat.
 4. Add hozzá a paradox launcherben egy playsethez.
 
