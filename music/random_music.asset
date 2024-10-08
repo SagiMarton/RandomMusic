@@ -98,3 +98,31 @@ music = {
     name = "I Am Just Feeling Alive"
     file = "feelingalive.ogg"
 }
+music = {
+    name = "Genesis"
+    file = "genesis.ogg"
+}
+music = {
+    name = "Plan A"
+    file = "plana.ogg"
+}
+music = {
+    name = "Hero ~Song of Hope~"
+    file = "herosongofhope.ogg"
+}
+music = {
+    name = "Kamakura Style"
+    file = "kamakurastyle.ogg"
+}
+music = {
+    name = "Chitty Chitty Bang Bang"
+    file = "chittychittybangbang.ogg"
+}
+music = {
+    name = "The Hero Without A Name"
+    file = "theherowithoutaname.ogg"
+}
+music = {
+    name = "Tsukiakari no Michishirube"
+    file = "tsukiakarinomichishirube.ogg"
+}

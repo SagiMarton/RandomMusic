@@ -148,3 +148,45 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Genesis"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Plan A"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Hero ~Song of Hope~"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Kamakura Style"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Chitty Chitty Bang Bang"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "The Hero Without A Name"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Tsukiakari no Michishirube"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
