@@ -125,4 +125,7 @@ music = {
 music = {
     name = "Tsukiakari no Michishirube"
     file = "tsukiakarinomichishirube.ogg"
+}music = {
+    name = "MikuMiku"
+    file = "Mikumiku.ogg"
 }
