@@ -190,3 +190,9 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "MikuMiku"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
