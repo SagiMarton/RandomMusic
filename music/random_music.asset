@@ -142,7 +142,3 @@ music = {
     name = "Fighting Gold"
     file = "FightingGold.ogg"
 }
-music = {
-    name = "Kibou no Uta"
-    file = "Kibounouta.ogg"
-}
