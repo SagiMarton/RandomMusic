@@ -196,3 +196,27 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Kaijuu"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Reaweave"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Fighting Gold"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Kibou no Uta"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
