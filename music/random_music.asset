@@ -130,3 +130,15 @@ music = {
     name = "MikuMiku"
     file = "Mikumiku.ogg"
 }
+music = {
+    name = "Kaijuu"
+    file = "Kaijuu.ogg"
+}
+music = {
+    name = "Reaweave"
+    file = "Reaweave.ogg"
+}
+music = {
+    name = "Fighting Gold"
+    file = "FightingGold.ogg"
+}
