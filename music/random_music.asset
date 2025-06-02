@@ -167,7 +167,7 @@ music = {
     file = "mikumonitoring.ogg"
 }
 music = {
-    name = "Machine Love"
+    name = "Machinelove"
     file = "machinelove.ogg"
 }
 music = {
@@ -175,7 +175,7 @@ music = {
     file = "mikuvampire.ogg"
 }
 music = {
-    name = "Winning Live"
+    name = "Winninglive"
     file = "winning.ogg"
 }
 music = {
