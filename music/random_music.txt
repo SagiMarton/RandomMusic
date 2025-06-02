@@ -221,7 +221,7 @@ song = {
     }
 }
 song = {
-    name = "Propose 9Lana"
+    name = "Propose - 9Lana"
     chance = {
         modifier = { factor = 1 }
     }
