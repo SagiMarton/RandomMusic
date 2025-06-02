@@ -251,7 +251,7 @@ song = {
     }
 }
 song = {
-    name = "Teto - Machine Love"
+    name = "MachineLove"
     chance = {
         modifier = { factor = 1 }
     }
@@ -263,7 +263,7 @@ song = {
     }
 }
 song = {
-    name = "Winning Live"
+    name = "WinningLive"
     chance = {
         modifier = { factor = 1 }
     }
