@@ -146,3 +146,7 @@ music = {
     name = "Teto Tetoris"
     file = "tetoristeto.ogg"
 }
+music = {
+    name = "Propose - 9Lana"
+    file = "propose9lana.ogg"
+}
