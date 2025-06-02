@@ -150,3 +150,39 @@ music = {
     name = "Propose - 9Lana"
     file = "propose9lana.ogg"
 }
+music = {
+    name = "Plazma"
+    file = "gundamplazma.ogg"
+}
+music = {
+    name = "Telepathy"
+    file = "deco27telepathy.ogg"
+}
+music = {
+    name = "Teto - Override"
+    file = "tetooverride.ogg"
+}
+music = {
+    name = "Monitoring"
+    file = "mikumonitoring.ogg"
+}
+music = {
+    name = "Teto - Machine Love"
+    file = "tetomachinelove"
+}
+music = {
+    name = "Vampire"
+    file = "mikuvampire.ogg"
+}
+music = {
+    name = "Winning Live 04"
+    file = "winninglive04"
+}
+music = {
+    name = "Rabbithole"
+    file = "rabbithole"
+}
+music = {
+    name = "Mesmerizer"
+    file = "mesmerizertxm.ogg"
+}
