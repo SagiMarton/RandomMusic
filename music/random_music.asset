@@ -182,3 +182,19 @@ music = {
     name = "Mesmerizer"
     file = "mesmerizertxm.ogg"
 }
+music = {
+    name = "Newgame"
+    file = "newgame.ogg"
+}
+music = {
+    name = "Qquux ED"
+    file = "suisexed.ogg"
+}
+music = {
+    name = "Flower Rhapsody"
+    file = "flowerrhapsody.ogg"
+}
+music = {
+    name = "Medalist OP"
+    file = "medalist.ogg"
+}
