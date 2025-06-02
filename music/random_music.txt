@@ -274,3 +274,27 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Newgame"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Qquux ED"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Flower Rhapsody"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Medalist OP"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
