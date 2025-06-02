@@ -142,3 +142,7 @@ music = {
     name = "Fighting Gold"
     file = "FightingGold.ogg"
 }
+music = {
+    name = "Teto Tetoris"
+    file = "tetoristeto.ogg"
+}
