@@ -176,7 +176,7 @@ music = {
 }
 music = {
     name = "Winninglive"
-    file = "winning.ogg"
+    file = "winninglive.ogg"
 }
 music = {
     name = "Mesmerizer"
