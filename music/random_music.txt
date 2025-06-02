@@ -214,3 +214,9 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Teto Tetoris"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
