@@ -226,3 +226,75 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Plazma"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Telepathy" 
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Teto - Override"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Monitoring"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Machinelove"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Vampire"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Winninglive"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Mesmerizer"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Newgame"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Qquux ED"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Flower Rhapsody"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Medalist OP"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
