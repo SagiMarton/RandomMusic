@@ -198,3 +198,27 @@ music = {
     name = "Medalist OP"
     file = "medalist.ogg"
 }
+music = {
+    name = "Hunting Soul"
+    file = "huntingsoul.ogg"
+}
+music = {
+    name = "Golden"
+    file = "golden.ogg"
+}
+music = {
+    name = "Utopia or Dystopia"
+    file = "utopiaordystopia.ogg"
+}
+music = {
+    name = "Love Deterrence"
+    file = "lovedeterrence.ogg"
+}
+music = {
+    name = "Heavens Divide"
+    file = "HEAVENSDIVIDE.ogg"
+}
+music = {
+    name = "Inertia"
+    file = "Inertia.ogg"
+}
