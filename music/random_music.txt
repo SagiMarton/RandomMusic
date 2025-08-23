@@ -298,3 +298,39 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Hunting Soul"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Golden"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Utopia or Dystopia"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Love Deterrence"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Heavens Divide"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Inertia"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
