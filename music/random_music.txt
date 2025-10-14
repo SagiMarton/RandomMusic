@@ -334,3 +334,51 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Sore wa Shiisana Hikari no Youna"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Asayake no Starmine"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Dying Wish"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Omega"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Inferno"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Hikaru Nara"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Orange"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}
+song = {
+    name = "Kirameki"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}

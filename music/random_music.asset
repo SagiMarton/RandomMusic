@@ -222,3 +222,35 @@ music = {
     name = "Inertia"
     file = "Inertia.ogg"
 }
+music = {
+    name = "Sore wa Shiisana Hikari no Youna"
+    file = "sorewa.ogg"
+}
+music = {
+    name = "Asayake no Starmine"
+    file = "asayake.ogg"
+}
+music = {
+    name = "Dying Wish"
+    file = "dyingwish.ogg"
+}
+music = {
+    name = "Omega"
+    file = "omega.ogg"
+}
+music = {
+    name = "Inferno"
+    file = "inferno.ogg"
+}
+music = {
+    name = "Hikaru Nara"
+    file = "HikaruNara.ogg"
+}
+music = {
+    name = "Orange"
+    file = "Orange.ogg"
+}
+music = {
+    name = "Kirameki"
+    file = "Kirameki.ogg"
+}
