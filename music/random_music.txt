@@ -382,3 +382,9 @@ song = {
         modifier = { factor = 1 }
     }
 }
+song = {
+    name = "Secret Base"
+    chance = {
+        modifier = { factor = 1 }
+    }
+}

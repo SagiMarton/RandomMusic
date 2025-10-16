@@ -236,7 +236,7 @@ music = {
 }
 music = {
     name = "Omega"
-    file = "omega.ogg"
+    file = "Omega.ogg"
 }
 music = {
     name = "Inferno"
@@ -248,9 +248,13 @@ music = {
 }
 music = {
     name = "Orange"
-    file = "Orange.ogg"
+    file = "orange-7.ogg"
 }
 music = {
     name = "Kirameki"
     file = "Kirameki.ogg"
+}
+music = {
+    name = "Secret Base"
+    file = "secretbase.ogg"
 }
